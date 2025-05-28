@@ -11,7 +11,7 @@ _Descubra, crie e gerencie eventos incríveis com uma experiência única_
 [![Material-UI](https://img.shields.io/badge/Material--UI-5.15-0081CB?style=for-the-badge&logo=mui)](https://mui.com/)
 [![React Hook Form](https://img.shields.io/badge/React_Hook_Form-7.48-EC5990?style=for-the-badge&logo=reacthookform)](https://react-hook-form.com/)
 
-[🚀 **Demo ao Vivo**](https://eventify-jr.vercel.app) • [📱 **Screenshots**](#-screenshots) • [⚡ **Instalação**](#-instalação-rápida)
+[🚀 **Demo ao Vivo**](https://eventify-taupe-ten.vercel.app/) • [📱 **Screenshots**](#-screenshots) • [⚡ **Instalação**](#-instalação-rápida)
 
 ---
 
@@ -115,19 +115,22 @@ _Descubra, crie e gerencie eventos incríveis com uma experiência única_
 
 _Interface moderna com filtros avançados e cards elegantes_
 
+![image](https://github.com/user-attachments/assets/9b2bf409-7bd0-45e6-bbb3-acaba706acae)
+
+
 ### 📝 **Criação de Eventos**
 
 _Formulário intuitivo com validações em tempo real_
+
+![image](https://github.com/user-attachments/assets/a31422ba-a313-4956-bc94-9da743cef34a)
+
 
 ### ❤️ **Favoritos**
 
 _Gestão personalizada dos eventos preferidos_
 
-### 🌙 **Tema Escuro**
+![image](https://github.com/user-attachments/assets/58451df0-3014-4e24-8e2f-dc41822ea9a6)
 
-_Alternância suave entre temas claro e escuro_
-
-</div>
 
 ---
 
@@ -281,11 +284,11 @@ Este projeto está sob a licença **MIT**. Veja o arquivo [LICENSE](LICENSE) par
 
 <div align="center">
 
-### **[Seu Nome]**
+### **Matheus Quintanilha**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-usuario)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://seu-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-quintanilhadev/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MatheusQuintanilhaa)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-web-mq.netlify.app/)
 
 _Desenvolvedor Frontend apaixonado por criar experiências digitais incríveis_
 
@@ -307,7 +310,6 @@ _Desenvolvedor Frontend apaixonado por criar experiências digitais incríveis_
 
 ### ⭐ **Se este projeto te ajudou, deixe uma estrela!** ⭐
 
-**Feito com ❤️ e muito ☕**
 
 </div>
 ```
@@ -342,11 +344,5 @@ _Desenvolvedor Frontend apaixonado por criar experiências digitais incríveis_
 - **Deploy instructions** para múltiplas plataformas
 - **Agradecimentos** mostrando conhecimento do ecossistema
 
-**Lembre-se de:**
 
-1. Substituir `[Seu Nome]` e links pelos seus dados
-2. Adicionar screenshots reais do projeto
-3. Atualizar a URL do demo quando fizer deploy
-4. Personalizar a seção "Sobre o Projeto" com sua visão
 
-Este README vai definitivamente impressionar recrutadores! 🚀✨
